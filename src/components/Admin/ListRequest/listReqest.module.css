@@ -1,0 +1,12 @@
+.ul {
+  list-style-type: none;
+  color: rgb(211, 184, 255);
+}
+.li{
+    padding-left: 50px; ;
+    margin-right:600px ;
+    border: 2px solid rgb(111, 0, 255);
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgba(119, 0, 255, 0.562);
+
+}

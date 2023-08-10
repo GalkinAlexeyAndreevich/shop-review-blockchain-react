@@ -1,0 +1,49 @@
+.like {
+    border-radius: 0px;
+    width: 40px;
+    height: 40px;
+    border: 0px;
+    background-image: url("../../../../public/like_no.png");
+    background-repeat: round;
+    background-color: rgba(240, 248, 255, 0);
+  }
+  .dislike {
+    border-radius: 0px;
+    width: 40px;
+    height: 40px;
+    border: 0px;
+    background-image: url("../../../../public/dislike_no.png");
+    background-repeat: round;
+    background-color: rgba(240, 248, 255, 0);
+  }
+  .ul {
+    list-style-type: none;
+    color: rgb(211, 184, 255);
+  }
+  .li {
+    padding-left: 50px;
+    margin-right: 750px;
+    width: 35%;
+    border: 2px solid rgb(13, 0, 85);
+    border-radius: 30px;
+    box-shadow: 30px 10px 25px rgba(4, 5, 85, 0.411);
+    margin-bottom: 50px;
+  }
+  .arrow img{
+    border-radius: 0px;
+    width: 20px;
+    height: 20px;
+    border: 0px;
+    /* background-image: url("../../../../public/down-arrow.png"); */
+    background-repeat: round;
+    background-color: rgba(240, 248, 255, 0);
+  }
+  .comment{
+    padding-left: 30px;
+    padding-top: 5px;
+  }
+  
+  .newComment{
+    color:white;
+  }
+  

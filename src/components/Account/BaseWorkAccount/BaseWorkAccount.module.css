@@ -1,0 +1,7 @@
+.BasePanel{
+    display: flex;
+    justify-content: space-between;
+}
+.Exit{
+    padding: 20px;
+}
